@@ -7,7 +7,7 @@
     "backoff": "~2.3.0",
     "crypto": "0.0.3",
     "event-stream": "3.0.16",
-    "knox": "~0.8.3",
+    "knox": "git://github.com/caremerge/knox.git#b1e031c209b3c17cab622a458e87728c1ee88cbd",
     "level-write-stream": "^1.0.0",
     "mime": "~1.2.9",
     "once": "~1.1.1",
